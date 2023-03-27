@@ -47,5 +47,5 @@ height:50,
 aspectRatio:1,
     }
 })
-export default Menu
+export default Menu;
 
