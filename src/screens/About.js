@@ -22,7 +22,7 @@ const About = () => {
           A full stack developer is a web developer or engineer who works with
           both the front and back ends of a website or application. In this
           sense, they provide an end-to-end service, and can be involved in
-          projects that involve databases and building user-facing websites
+
         </Text>
       </View>
       <Text style={styles.mainHeader}> Follow me on Social Media</Text>
